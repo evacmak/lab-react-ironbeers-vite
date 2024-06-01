@@ -31,7 +31,7 @@ function AllBeersPage() {
                     </Link>
 
                     <h2>{beer.tagline}</h2>
-                    <h3>{beer.contributed_by}</h3>
+                    <h3>Created by: {beer.contributed_by}</h3>
                     
 
                     </div>
